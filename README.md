@@ -1,6 +1,6 @@
 # PyDBMS - A way to translate databases in Python
 
-So me and my friend ARP (@adhyaatmann) had an idea back in 2025. We had studied MySQL is our school, and found the idea of databases very appealing. The only thing that approached close enough to the concept of tabular data in our syllabus was the CSV file. So, we decided to create a GUI in Python than works with CSV files in the same way as MySQL deals with its databases.
+So me and my friend ARP (@Adhyaatmann) had an idea back in 2025. We had studied MySQL is our school, and found the idea of databases very appealing. The only thing that approached close enough to the concept of tabular data in our syllabus was the CSV file. So, we decided to create a GUI in Python than works with CSV files in the same way as MySQL deals with its databases.
 
 ## About Our idea
 
@@ -32,4 +32,4 @@ ARP had this brilliant idea of putting an overall console log (just like in Pyth
 ### Colour Themes
 ARP, being the mad coder he is, added a whole lot of VIBRANT COLOURES THEMES onto his program. Again, the cross-window coding was hard, so I avoided it. I am very less likely to see to this one.
 
-Huge thanks to @adhyaatmann for his incredible help!
+Huge thanks to @Adhyaatmann for his incredible help!
